@@ -1,0 +1,14 @@
+{
+  "earth": {
+    "name": "Earth",
+    "gravity": 9.807
+  },
+  "mars": {
+    "name": "Mars",
+    "gravity": 3.711
+  },
+  "moon": {
+    "name": "Moon",
+    "gravity": 1.62
+  }
+}
